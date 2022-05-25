@@ -1,5 +1,4 @@
 **SEQUENTIAL FILE UPDATE**
-
 read-an-old-master-record
 read-a-transaction-record
 
